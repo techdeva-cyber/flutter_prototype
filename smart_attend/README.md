@@ -66,7 +66,7 @@ smart_attend/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-github-username/smartattend.git
+   git clone https://github.com/techdeva-cyber/flutter_prototype
    cd smartattend
    ```
 
